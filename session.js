@@ -50,7 +50,7 @@ module.exports = {
     process.env.PASSWORD || "Star pay 8",
   SUDO: process.env.SUDO
     ? process.env.SUDO.split(",")
-    : ["94717775628", "94758775628"],
+    : ["94729478513", "94758775628"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
   TOKEN: "7RbI8PbYaLKNwOKcLnAgVrvd7L37Ld4VJoOr",
